@@ -1,25 +1,39 @@
 ---
-title: Markdown Mystery Tour
+title: Master Brain
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/Master-1.JPG
+img_alt: Page d'accueil Master Brain.
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  MarketPlace pour louer un cerveau, quand le notre est à bout!
 tags:
   - Design
   - Dev
-  - User Testing
+  - MarketPlace
 ---
+Page de création de compte, avec la 'gem' 'Devise'.
 
-## Level-two heading
+![Master Image 2](/assets/Master-2.png)
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+![Master Image 3](/assets/Master-3.JPG)
 
-### Level-three heading
+Page de recherche de cerveau selon leur compétence, localisation etc. La carte affiche les différentes offres selon leur emplacement.
+
+![Master Image 4](/assets/Master-4.JPG)
+
+Page de détails de l'offre.
+
+![Master Image 5](/assets/Master-5.png)
+
+Page de réservation, avec le choix de la date avec la 'gem' 'Flatpickr'.
+![Master Image 6](/assets/Master-6.png)
+
+
+![Master Image 7](/assets/Master-7.png)
+
+
+<!-- ### Level-three heading
 
 Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
 
@@ -32,4 +46,4 @@ Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum qu
 #### Level-four heading
 
 - We noted this
-- And also this other point
+- And also this other point -->
