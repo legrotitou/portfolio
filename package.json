@@ -7,9 +7,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "start": "next server.js"
+    "web": "npx serve dist"
   },
   "dependencies": {
-    "astro": "^5.2.5"
+    "astro": "^5.2.5",
+    "serve": "^14.2.4"
   }
 }
